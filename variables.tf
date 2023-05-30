@@ -1,4 +1,4 @@
 # declared centralized variable
 variable "inst_type" {
-  default = "t2.nano"
+  default = "t2.large"
 }
